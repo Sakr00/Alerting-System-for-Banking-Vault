@@ -8,10 +8,11 @@ The Banking Vault Alerting System is a cutting-edge security solution designed t
 
 ![WhatsApp Image 2023-01-05 at 11 38 25 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/d9307f1f-6585-4611-b688-7c005708e017)
 
-## Table of Contents
 # Installation
+  Download ISE <<VHDL>>
 # Usage
-
+ <Open the Project in ISE>
+   
   ### Manager Scenario
   
  #### External_door_Going_in_scene
