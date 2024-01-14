@@ -4,6 +4,8 @@
 ## Project Description
 
 The Banking Vault Alerting System is a cutting-edge security solution designed to automate and enhance the security of banking vaults. It is implemented directly into the vault's hardware and is capable of triggering predefined security scenarios to ensure the safety and integrity of the bank's assets. This system revolutionizes the way we protect valuable assets, making security more robust and responsive than ever before.
+
+
 ![WhatsApp Image 2023-01-05 at 11 38 25 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/d9307f1f-6585-4611-b688-7c005708e017)
 
 ## Table of Contents
@@ -12,7 +14,7 @@ The Banking Vault Alerting System is a cutting-edge security solution designed t
 
   ### Manager Scenario
   
-  #### External_door_Going_in_scene
+ #### External_door_Going_in_scene
   
   - The manager walks towards the external door and authenticates using the Authentication panel beside the external door (FaceIN & HandIN).
   - If authentication is successful, the external door opens, and the manager enters the room with the bank vault.
@@ -152,10 +154,12 @@ The Banking Vault Alerting System comprises several key components, each playing
 These components work in concert to provide robust security and automation for the banking vault, ensuring the protection of valuable assets.
 
 # Documentation
-  **Internal_Door + Vault + Internal_Sensors
-    ![WhatsApp Image 2022-12-30 at 7 49 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/650fc4e7-3eae-4712-bf26-9d6bc303d9af)
-  **External_Door + Sensors 
-    ![WhatsApp Image 2022-12-30 at 7 15 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/f8db2b5e-50fc-4e73-bdda-801a0e030c1d)
+  **Internal_Door + Vault + Internal_Sensors**
+  
+  ![WhatsApp Image 2022-12-30 at 7 49 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/650fc4e7-3eae-4712-bf26-9d6bc303d9af)
+  **External_Door + Sensors **
+  
+  ![WhatsApp Image 2022-12-30 at 7 15 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/f8db2b5e-50fc-4e73-bdda-801a0e030c1d)
 
 
 5. [Contributing](#contributing)
