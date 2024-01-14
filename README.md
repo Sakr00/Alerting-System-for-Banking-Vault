@@ -9,9 +9,11 @@ The Banking Vault Alerting System is a cutting-edge security solution designed t
 ![WhatsApp Image 2023-01-05 at 11 38 25 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/d9307f1f-6585-4611-b688-7c005708e017)
 
 # Installation
-  Download ISE <<VHDL>>
+  Download ISE *VHDL*
 # Usage
- <Open the Project in ISE>
+ -Open the Project in ISE
+ -If you failed in opening the project RUN *Bank_Vault.vhd* File
+ -Then use the Testing file which Called *Final_test*
    
   ### Manager Scenario
   
@@ -158,13 +160,14 @@ These components work in concert to provide robust security and automation for t
   **Internal_Door + Vault + Internal_Sensors**
   
   ![WhatsApp Image 2022-12-30 at 7 49 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/650fc4e7-3eae-4712-bf26-9d6bc303d9af)
+
+  
   **External_Door + Sensors **
   
   ![WhatsApp Image 2022-12-30 at 7 15 20 PM](https://github.com/Sakr00/Alerting-System-for-Banking-Vault/assets/111249727/f8db2b5e-50fc-4e73-bdda-801a0e030c1d)
 
 
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 <!-- Add more sections as needed -->
 
